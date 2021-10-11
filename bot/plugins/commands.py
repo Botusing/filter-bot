@@ -51,7 +51,7 @@ async def start(bot, update):
         
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/GZPG-S2ALw9iMTg1')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
